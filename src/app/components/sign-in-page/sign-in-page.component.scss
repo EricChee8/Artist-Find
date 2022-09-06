@@ -5,3 +5,22 @@
   min-height: 100%;
   height: 100%;
 }
+
+.sign-in {
+  background: rgba(9, 1, 1, 0.7);
+  border-radius: 5px;
+  margin-top: 125px;
+  padding: 10%;
+}
+
+.sign-in h1 {
+  text-align: center;
+  color: white;
+  font-weight: 200;
+  padding: 25px;
+  font-size: 40px;
+}
+
+input {
+  margin-bottom: 25px;
+}
